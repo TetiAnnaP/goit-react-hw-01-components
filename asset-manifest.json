@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tetiannap/static/css/main.7acaea2f.css",
+    "main.js": "/tetiannap/static/js/main.07d3183d.js",
+    "index.html": "/tetiannap/index.html",
+    "main.7acaea2f.css.map": "/tetiannap/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/tetiannap/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
