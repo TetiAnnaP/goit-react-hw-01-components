@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tetiannap/static/css/main.7acaea2f.css",
-    "main.js": "/tetiannap/static/js/main.07d3183d.js",
+    "main.css": "/tetiannap/static/css/main.9eeed5ed.css",
+    "main.js": "/tetiannap/static/js/main.8c060d1e.js",
     "index.html": "/tetiannap/index.html",
-    "main.7acaea2f.css.map": "/tetiannap/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/tetiannap/static/js/main.07d3183d.js.map"
+    "main.9eeed5ed.css.map": "/tetiannap/static/css/main.9eeed5ed.css.map",
+    "main.8c060d1e.js.map": "/tetiannap/static/js/main.8c060d1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.9eeed5ed.css",
+    "static/js/main.8c060d1e.js"
   ]
 }
