@@ -1,0 +1,37 @@
+.statistics {
+  font-size: 25px;
+  font-weight: 600;
+  color: white;
+}
+
+.stat-list {
+  display: flex;
+  list-style: none;
+}
+
+.item {
+  background-color: aquamarine;
+  padding: 10px 25px 10px 25px;
+  text-align: center;
+}
+
+.item.id-1 {
+  background-color: #4fc4f6;
+}
+
+.item.id-2 {
+  background-color: #a43cf4;
+}
+
+.item.id-3 {
+  background-color: #e64c66;
+}
+
+.item.id-4 {
+  background-color: #20b8c5;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
